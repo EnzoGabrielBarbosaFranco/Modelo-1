@@ -1,0 +1,65 @@
+body {
+    background-repeat: no-repeat;
+    background-image: url('img/background.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.titulo {
+    margin-top: 5%;
+    width: 48%;
+}
+
+.titulo h2 {
+    font-size: 45px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.titulo p {
+    font-size: 20px;
+    margin-left: 20px;
+    word-wrap: break-word;
+}
+
+.principal {
+    margin-left: 10%;
+}
+
+.card {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    margin: 20px;
+    max-width: 300px;
+    margin: 1%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    background-color: white;
+    margin-top: 0%;
+    text-align: center;
+    height: 400px;
+    width: 30%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.card img {
+    max-width: 100%;
+}
+
+.card h2 {
+    text-shadow: 1px 1px black;
+    font-size: 18px;
+    color: yellow;
+    margin-top: 10px;
+}
+
+.card p {
+    text-shadow: 3px black;
+    text-align: left;
+    font-style: italic;
+}
+
+.freepilk {
+    margin-left: 20px;
+}
